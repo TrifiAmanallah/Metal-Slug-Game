@@ -1,0 +1,1608 @@
+# depslib dependency file v1.0
+1398950809 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.2\chargements_sdl.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326110988 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_platform.h
+
+1326110994 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1341010380 c:\program files (x86)\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1341010370 c:\program files (x86)\codeblocks\mingw\include\_mingw.h
+
+1341010376 c:\program files (x86)\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1341010376 c:\program files (x86)\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1341010374 c:\program files (x86)\codeblocks\mingw\include\malloc.h
+	<_mingw.h>
+	<stdlib.h>
+
+1341010374 c:\program files (x86)\codeblocks\mingw\include\memory.h
+	<string.h>
+
+1341010376 c:\program files (x86)\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1341010376 c:\program files (x86)\codeblocks\mingw\include\strings.h
+	<string.h>
+
+1341010372 c:\program files (x86)\codeblocks\mingw\include\inttypes.h
+	<_mingw.h>
+	<stdint.h>
+	<stddef.h>
+
+1341010376 c:\program files (x86)\codeblocks\mingw\include\stdint.h
+	<stddef.h>
+
+1341010370 c:\program files (x86)\codeblocks\mingw\include\ctype.h
+	<_mingw.h>
+	<stddef.h>
+
+1326111000 c:\program files (x86)\codeblocks\mingw\include\sdl\begin_code.h
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\close_code.h
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1341010374 c:\program files (x86)\codeblocks\mingw\include\process.h
+	<_mingw.h>
+	<sys/types.h>
+	<stdint.h>
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_keysym.h
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325788834 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399596452 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.2\creation_personnages.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"decoupage.h"
+	"creation_personnages.h"
+
+1398239013 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.2\decoupage.h
+
+1399595602 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.2\creation_personnages.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1399598494 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.2\creation_projectils.c
+	"creation_projectils.h"
+
+1399590968 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.2\creation_projectils.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_personnages.h"
+
+1398980030 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.2\creation_stage.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_stage.h"
+
+1398980030 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.2\creation_stage.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1399595214 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.2\decoupage.c
+	<SDL/SDL_image.h>
+
+1398357648 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.2\gestion_ touches_clavier.c
+	<SDL/SDL.h>
+
+1399598918 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.2\gestion_collusions.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+
+1399601544 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.2\jouer.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"chargements_SDL.h"
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	"mouvement_ennemie_1.h"
+
+1398240704 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.2\chargements_sdl.h
+
+1399595209 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.2\mouvement_ennemie_1.h
+
+1398885711 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.2\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"jouer.h"
+
+1398245564 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.2\jouer.h
+
+1399596495 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.2\mouvement_ennemie_1.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	<SDL/SDL_image.h>
+	<SDL/SDL.h>
+
+1398950809 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.3\chargements_sdl.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1399596452 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.3\creation_personnages.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"decoupage.h"
+	"creation_personnages.h"
+
+1398239013 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.3\decoupage.h
+
+1399595602 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.3\creation_personnages.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1399598494 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.3\creation_projectils.c
+	"creation_projectils.h"
+
+1399590968 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.3\creation_projectils.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_personnages.h"
+
+1398980030 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.3\creation_stage.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_stage.h"
+
+1398980030 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.3\creation_stage.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1399595214 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.3\decoupage.c
+	<SDL/SDL_image.h>
+
+1398357648 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.3\gestion_ touches_clavier.c
+	<SDL/SDL.h>
+
+1399603157 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.3\jouer.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"chargements_SDL.h"
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	"mouvement_ennemie_1.h"
+
+1398240704 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.3\chargements_sdl.h
+
+1399595209 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.3\mouvement_ennemie_1.h
+
+1398885711 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.3\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"jouer.h"
+
+1398245564 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.3\jouer.h
+
+1399596495 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.3\mouvement_ennemie_1.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	<SDL/SDL_image.h>
+	<SDL/SDL.h>
+
+1399603002 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.3\gestion_collusions.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+
+1398950809 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.4\chargements_sdl.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400022969 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.4\creation_projectils.c
+	"creation_projectils.h"
+
+1399590968 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.4\creation_projectils.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_personnages.h"
+
+1399595602 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.4\creation_personnages.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1398980030 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.4\creation_stage.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_stage.h"
+
+1398980030 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.4\creation_stage.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1398357648 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.4\gestion_ touches_clavier.c
+	<SDL/SDL.h>
+
+1400024190 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.4\gestion_collusions.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+
+1398885711 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.4\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"jouer.h"
+
+1398245564 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.4\jouer.h
+
+1400024221 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.4\creation_personnages.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"decoupage.h"
+	"creation_personnages.h"
+
+1400003280 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.4\decoupage.h
+
+1400003280 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.4\decoupage.c
+	<SDL/SDL_image.h>
+
+1400024280 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.4\jouer.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"chargements_SDL.h"
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	"mouvement_ennemie_1.h"
+
+1398240704 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.4\chargements_sdl.h
+
+1400003280 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.4\mouvement_ennemie_1.h
+
+1400003280 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.4\mouvement_ennemie_1.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	<SDL/SDL_image.h>
+	<SDL/SDL.h>
+
+1398950809 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.5\chargements_sdl.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400082575 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.5\creation_personnages.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"decoupage.h"
+	"creation_personnages.h"
+
+1400003280 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.5\decoupage.h
+
+1400027061 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.5\creation_personnages.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400022969 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.5\creation_projectils.c
+	"creation_projectils.h"
+
+1399590968 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.5\creation_projectils.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_personnages.h"
+
+1400035477 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.5\creation_stage.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_stage.h"
+
+1400035477 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.5\creation_stage.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400078819 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.5\decoupage.c
+	<SDL/SDL_image.h>
+
+1398357648 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.5\gestion_ touches_clavier.c
+	<SDL/SDL.h>
+
+1400027293 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.5\gestion_collusions.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+
+1400084106 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.5\jouer.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"chargements_SDL.h"
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	"mouvement_ennemie_1.h"
+
+1398240704 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.5\chargements_sdl.h
+
+1400076330 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.5\mouvement_ennemie_1.h
+
+1398885711 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.5\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"jouer.h"
+
+1398245564 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.5\jouer.h
+
+1400084482 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.5\mouvement_ennemie_1.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	<SDL/SDL_image.h>
+	<SDL/SDL.h>
+
+1398950809 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.6\chargements_sdl.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400082575 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.6\creation_personnages.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"decoupage.h"
+	"creation_personnages.h"
+
+1400003280 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.6\decoupage.h
+
+1400027061 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.6\creation_personnages.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400022969 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.6\creation_projectils.c
+	"creation_projectils.h"
+
+1399590968 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.6\creation_projectils.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_personnages.h"
+
+1400085557 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.6\creation_stage.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_stage.h"
+
+1400085534 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.6\creation_stage.h
+	"creation_personnages.h"
+	<SDL/SDL_image.h>
+
+1400078819 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.6\decoupage.c
+	<SDL/SDL_image.h>
+
+1398357648 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.6\gestion_ touches_clavier.c
+	<SDL/SDL.h>
+
+1400027293 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.6\gestion_collusions.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+
+1400085868 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.6\jouer.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"chargements_SDL.h"
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	"mouvement_ennemie_1.h"
+
+1398240704 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.6\chargements_sdl.h
+
+1400076330 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.6\mouvement_ennemie_1.h
+
+1398885711 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.6\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"jouer.h"
+
+1398245564 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.6\jouer.h
+
+1400085838 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.6\mouvement_ennemie_1.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	<SDL/SDL_image.h>
+	<SDL/SDL.h>
+
+1398950809 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.7\chargements_sdl.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400022969 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.7\creation_projectils.c
+	"creation_projectils.h"
+
+1399590968 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.7\creation_projectils.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_personnages.h"
+
+1400097083 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.7\creation_personnages.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400085557 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.7\creation_stage.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_stage.h"
+
+1400085534 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.7\creation_stage.h
+	"creation_personnages.h"
+	<SDL/SDL_image.h>
+
+1400096873 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.7\decoupage.c
+	<SDL/SDL_image.h>
+
+1398357648 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.7\gestion_ touches_clavier.c
+	<SDL/SDL.h>
+
+1400097638 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.7\gestion_collusions.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+
+1400097641 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.7\jouer.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"chargements_SDL.h"
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	"mouvement_ennemie_1.h"
+
+1398240704 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.7\chargements_sdl.h
+
+1400097083 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.7\mouvement_ennemie_1.h
+
+1398885711 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.7\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"jouer.h"
+
+1398245564 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.7\jouer.h
+
+1400097083 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.7\mouvement_ennemie_1.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	<SDL/SDL_image.h>
+	<SDL/SDL.h>
+
+1400097558 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.7\creation_personnages.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"decoupage.h"
+	"creation_personnages.h"
+
+1400003280 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.7\decoupage.h
+
+1398950809 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.8\chargements_sdl.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400105485 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.8\creation_personnages.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"decoupage.h"
+	"creation_personnages.h"
+
+1400003280 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.8\decoupage.h
+
+1400097958 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.8\creation_personnages.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400022969 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.8\creation_projectils.c
+	"creation_projectils.h"
+
+1399590968 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.8\creation_projectils.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_personnages.h"
+
+1400085557 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.8\creation_stage.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_stage.h"
+
+1400085534 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.8\creation_stage.h
+	"creation_personnages.h"
+	<SDL/SDL_image.h>
+
+1400104542 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.8\decoupage.c
+	<SDL/SDL_image.h>
+
+1398357648 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.8\gestion_ touches_clavier.c
+	<SDL/SDL.h>
+
+1400099335 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.8\gestion_collusions.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+
+1400105281 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.8\jouer.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"chargements_SDL.h"
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	"mouvement_ennemie_1.h"
+
+1398240704 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.8\chargements_sdl.h
+
+1400102823 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.8\mouvement_ennemie_1.h
+
+1400098872 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.8\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"jouer.h"
+
+1398245564 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.8\jouer.h
+
+1400105485 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.8\mouvement_ennemie_1.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	<SDL/SDL_image.h>
+	<SDL/SDL.h>
+
+1398950809 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.9\chargements_sdl.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400109031 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.9\creation_projectils.c
+	"creation_projectils.h"
+
+1399590968 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.9\creation_projectils.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_personnages.h"
+
+1400097958 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.9\creation_personnages.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400085557 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.9\creation_stage.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_stage.h"
+
+1400085534 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.9\creation_stage.h
+	"creation_personnages.h"
+	<SDL/SDL_image.h>
+
+1400107692 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.9\decoupage.c
+	<SDL/SDL_image.h>
+
+1398357648 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.9\gestion_ touches_clavier.c
+	<SDL/SDL.h>
+
+1400110753 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.9\gestion_collusions.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+
+1400110345 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.9\jouer.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"chargements_SDL.h"
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	"mouvement_ennemie_1.h"
+
+1398240704 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.9\chargements_sdl.h
+
+1400107694 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.9\mouvement_ennemie_1.h
+
+1400098872 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.9\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"jouer.h"
+
+1398245564 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.9\jouer.h
+
+1400110207 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.9\mouvement_ennemie_1.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	<SDL/SDL_image.h>
+	<SDL/SDL.h>
+
+1400110753 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.9\creation_personnages.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"decoupage.h"
+	"creation_personnages.h"
+
+1400003280 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v1.9\decoupage.h
+
+1398950809 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\chargements_sdl.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400112379 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\creation_personnages.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"decoupage.h"
+	"creation_personnages.h"
+
+1400003280 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\decoupage.h
+
+1400097958 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\creation_personnages.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400109031 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\creation_projectils.c
+	"creation_projectils.h"
+
+1399590968 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\creation_projectils.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_personnages.h"
+
+1400112694 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\creation_stage.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_stage.h"
+
+1400112715 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\creation_stage.h
+	"creation_personnages.h"
+	"creation_projectils.h"
+	<SDL/SDL_image.h>
+
+1400107692 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\decoupage.c
+	<SDL/SDL_image.h>
+
+1398357648 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\gestion_ touches_clavier.c
+	<SDL/SDL.h>
+
+1400112399 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\gestion_collusions.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+
+1400112882 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\jouer.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"chargements_SDL.h"
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	"mouvement_ennemie_1.h"
+
+1398240704 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\chargements_sdl.h
+
+1400107694 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\mouvement_ennemie_1.h
+
+1400098872 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"jouer.h"
+
+1398245564 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\jouer.h
+
+1400110207 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\mouvement_ennemie_1.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	<SDL/SDL_image.h>
+	<SDL/SDL.h>
+
+1398950809 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\metal slug v2.0\chargements_sdl.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400112379 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\metal slug v2.0\creation_personnages.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"decoupage.h"
+	"creation_personnages.h"
+
+1400003280 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\metal slug v2.0\decoupage.h
+
+1400097958 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\metal slug v2.0\creation_personnages.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400109031 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\metal slug v2.0\creation_projectils.c
+	"creation_projectils.h"
+
+1399590968 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\metal slug v2.0\creation_projectils.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_personnages.h"
+
+1400112694 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\metal slug v2.0\creation_stage.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_stage.h"
+
+1400112715 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\metal slug v2.0\creation_stage.h
+	"creation_personnages.h"
+	"creation_projectils.h"
+	<SDL/SDL_image.h>
+
+1400107692 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\metal slug v2.0\decoupage.c
+	<SDL/SDL_image.h>
+
+1398357648 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\metal slug v2.0\gestion_ touches_clavier.c
+	<SDL/SDL.h>
+
+1400118464 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\metal slug v2.0\gestion_collusions.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+
+1400098872 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\metal slug v2.0\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"jouer.h"
+
+1398245564 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\metal slug v2.0\jouer.h
+
+1400116948 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\metal slug v2.0\mouvement_ennemie_1.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	<SDL/SDL_image.h>
+	<SDL/SDL.h>
+
+1400117799 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\metal slug v2.0\jouer.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"chargements_SDL.h"
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	"mouvement_ennemie_1.h"
+
+1398240704 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\metal slug v2.0\chargements_sdl.h
+
+1400107694 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.0\metal slug v2.0\mouvement_ennemie_1.h
+
+1398950809 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.1\chargements_sdl.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400112379 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.1\creation_personnages.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"decoupage.h"
+	"creation_personnages.h"
+
+1400003280 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.1\decoupage.h
+
+1400097958 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.1\creation_personnages.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400109031 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.1\creation_projectils.c
+	"creation_projectils.h"
+
+1399590968 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.1\creation_projectils.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_personnages.h"
+
+1400112694 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.1\creation_stage.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_stage.h"
+
+1400112715 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.1\creation_stage.h
+	"creation_personnages.h"
+	"creation_projectils.h"
+	<SDL/SDL_image.h>
+
+1400107692 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.1\decoupage.c
+	<SDL/SDL_image.h>
+
+1398357648 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.1\gestion_ touches_clavier.c
+	<SDL/SDL.h>
+
+1400118464 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.1\gestion_collusions.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+
+1400117799 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.1\jouer.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"chargements_SDL.h"
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	"mouvement_ennemie_1.h"
+
+1398240704 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.1\chargements_sdl.h
+
+1400107694 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.1\mouvement_ennemie_1.h
+
+1400098872 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.1\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"jouer.h"
+
+1398245564 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.1\jouer.h
+
+1400116948 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.1\mouvement_ennemie_1.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	<SDL/SDL_image.h>
+	<SDL/SDL.h>
+
+1398950809 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.3\chargements_sdl.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400171800 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.3\creation_personnages.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"decoupage.h"
+	"creation_personnages.h"
+
+1400003280 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.3\decoupage.h
+
+1400171170 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.3\creation_personnages.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400109031 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.3\creation_projectils.c
+	"creation_projectils.h"
+
+1399590968 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.3\creation_projectils.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_personnages.h"
+
+1400112694 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.3\creation_stage.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_stage.h"
+
+1400112715 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.3\creation_stage.h
+	"creation_personnages.h"
+	"creation_projectils.h"
+	<SDL/SDL_image.h>
+
+1400171170 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.3\decoupage.c
+	<SDL/SDL_image.h>
+
+1398357648 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.3\gestion_ touches_clavier.c
+	<SDL/SDL.h>
+
+1400118464 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.3\gestion_collusions.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+
+1400171651 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.3\jouer.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"chargements_SDL.h"
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	"mouvement_ennemie_1.h"
+
+1398240704 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.3\chargements_sdl.h
+
+1400170587 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.3\mouvement_ennemie_1.h
+
+1400098872 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.3\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"jouer.h"
+
+1398245564 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.3\jouer.h
+
+1400171537 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.3\mouvement_ennemie_1.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	<SDL/SDL_image.h>
+	<SDL/SDL.h>
+
+1398950809 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.4\chargements_sdl.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400178996 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.4\creation_personnages.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"decoupage.h"
+	"creation_personnages.h"
+
+1400003280 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.4\decoupage.h
+
+1400174527 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.4\creation_personnages.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400109031 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.4\creation_projectils.c
+	"creation_projectils.h"
+
+1399590968 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.4\creation_projectils.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_personnages.h"
+
+1400112694 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.4\creation_stage.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_stage.h"
+
+1400112715 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.4\creation_stage.h
+	"creation_personnages.h"
+	"creation_projectils.h"
+	<SDL/SDL_image.h>
+
+1400177261 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.4\decoupage.c
+	<SDL/SDL_image.h>
+
+1398357648 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.4\gestion_ touches_clavier.c
+	<SDL/SDL.h>
+
+1400118464 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.4\gestion_collusions.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+
+1400098872 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.4\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"jouer.h"
+
+1398245564 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.4\jouer.h
+
+1400178955 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.4\mouvement_ennemie_1.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	<SDL/SDL_image.h>
+	<SDL/SDL.h>
+
+1400179202 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.4\jouer.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"chargements_SDL.h"
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	"mouvement_ennemie_1.h"
+
+1398240704 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.4\chargements_sdl.h
+
+1400177261 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.4\mouvement_ennemie_1.h
+
+1398950809 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.5\chargements_sdl.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400185813 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.5\creation_personnages.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"decoupage.h"
+	"creation_personnages.h"
+
+1400003280 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.5\decoupage.h
+
+1400183654 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.5\creation_personnages.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400109031 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.5\creation_projectils.c
+	"creation_projectils.h"
+
+1399590968 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.5\creation_projectils.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_personnages.h"
+
+1400182170 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.5\creation_stage.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_stage.h"
+
+1400112715 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.5\creation_stage.h
+	"creation_personnages.h"
+	"creation_projectils.h"
+	<SDL/SDL_image.h>
+
+1400185214 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.5\decoupage.c
+	<SDL/SDL_image.h>
+
+1398357648 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.5\gestion_ touches_clavier.c
+	<SDL/SDL.h>
+
+1400118464 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.5\gestion_collusions.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+
+1400186248 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.5\jouer.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"chargements_SDL.h"
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	"mouvement_ennemie_1.h"
+
+1398240704 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.5\chargements_sdl.h
+
+1400177261 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.5\mouvement_ennemie_1.h
+
+1400098872 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.5\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"jouer.h"
+
+1398245564 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.5\jouer.h
+
+1400185813 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.5\mouvement_ennemie_1.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	<SDL/SDL_image.h>
+	<SDL/SDL.h>
+
+1398950809 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.6\chargements_sdl.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400191285 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.6\creation_personnages.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"decoupage.h"
+	"creation_personnages.h"
+
+1400003280 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.6\decoupage.h
+
+1400191598 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.6\creation_personnages.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400109031 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.6\creation_projectils.c
+	"creation_projectils.h"
+
+1399590968 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.6\creation_projectils.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_personnages.h"
+
+1400186687 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.6\creation_stage.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_stage.h"
+
+1400112715 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.6\creation_stage.h
+	"creation_personnages.h"
+	"creation_projectils.h"
+	<SDL/SDL_image.h>
+
+1400191551 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.6\decoupage.c
+	<SDL/SDL_image.h>
+
+1398357648 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.6\gestion_ touches_clavier.c
+	<SDL/SDL.h>
+
+1400191379 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.6\gestion_collusions.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+
+1400194149 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.6\jouer.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"chargements_SDL.h"
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	"mouvement_ennemie_1.h"
+
+1398240704 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.6\chargements_sdl.h
+
+1400191284 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.6\mouvement_ennemie_1.h
+
+1400195121 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.6\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"jouer.h"
+	"chargements_SDL.h"
+
+1398245564 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.6\jouer.h
+
+1400194228 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.6\mouvement_ennemie_1.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	<SDL/SDL_image.h>
+	<SDL/SDL.h>
+
+1398950809 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.7\chargements_sdl.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400200709 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.7\creation_personnages.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"decoupage.h"
+	"creation_personnages.h"
+
+1400003280 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.7\decoupage.h
+
+1400191598 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.7\creation_personnages.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400200438 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.7\creation_projectils.c
+	"creation_projectils.h"
+
+1400200438 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.7\creation_projectils.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_personnages.h"
+
+1400186687 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.7\creation_stage.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_stage.h"
+
+1400112715 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.7\creation_stage.h
+	"creation_personnages.h"
+	"creation_projectils.h"
+	<SDL/SDL_image.h>
+
+1400191551 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.7\decoupage.c
+	<SDL/SDL_image.h>
+
+1398357648 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.7\gestion_ touches_clavier.c
+	<SDL/SDL.h>
+
+1400200336 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.7\gestion_collusions.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+
+1400200656 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.7\jouer.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"chargements_SDL.h"
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	"mouvement_ennemie_1.h"
+
+1398240704 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.7\chargements_sdl.h
+
+1400191284 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.7\mouvement_ennemie_1.h
+
+1400194228 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.7\mouvement_ennemie_1.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	<SDL/SDL_image.h>
+	<SDL/SDL.h>
+
+1400198801 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.7\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"jouer.h"
+	"chargements_SDL.h"
+
+1400197926 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.7\jouer.h
+
+1398950809 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.8\chargements_sdl.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400200438 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.8\creation_projectils.c
+	"creation_projectils.h"
+
+1400200438 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.8\creation_projectils.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_personnages.h"
+
+1400191598 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.8\creation_personnages.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400186687 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.8\creation_stage.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_stage.h"
+
+1400112715 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.8\creation_stage.h
+	"creation_personnages.h"
+	"creation_projectils.h"
+	<SDL/SDL_image.h>
+
+1398357648 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.8\gestion_ touches_clavier.c
+	<SDL/SDL.h>
+
+1400200336 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.8\gestion_collusions.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+
+1400198801 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.8\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"jouer.h"
+	"chargements_SDL.h"
+
+1400197926 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.8\jouer.h
+
+1398240704 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.8\chargements_sdl.h
+
+1400207593 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.8\creation_personnages.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"decoupage.h"
+	"creation_personnages.h"
+
+1400003280 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.8\decoupage.h
+
+1400207469 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.8\decoupage.c
+	<SDL/SDL_image.h>
+
+1400207800 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.8\jouer.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"chargements_SDL.h"
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	"mouvement_ennemie_1.h"
+
+1400204693 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.8\mouvement_ennemie_1.h
+
+1400207559 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.8\mouvement_ennemie_1.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	<SDL/SDL_image.h>
+	<SDL/SDL.h>
+
+1400208200 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.9\chargements_sdl.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400207593 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.9\creation_personnages.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"decoupage.h"
+	"creation_personnages.h"
+
+1400003280 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.9\decoupage.h
+
+1400191598 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.9\creation_personnages.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1400200438 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.9\creation_projectils.c
+	"creation_projectils.h"
+
+1400200438 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.9\creation_projectils.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_personnages.h"
+
+1400186687 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.9\creation_stage.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"creation_stage.h"
+
+1400112715 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.9\creation_stage.h
+	"creation_personnages.h"
+	"creation_projectils.h"
+	<SDL/SDL_image.h>
+
+1400207469 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.9\decoupage.c
+	<SDL/SDL_image.h>
+
+1398357648 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.9\gestion_ touches_clavier.c
+	<SDL/SDL.h>
+
+1400200336 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.9\gestion_collusions.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+
+1400208200 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.9\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"jouer.h"
+	"chargements_SDL.h"
+
+1400197926 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.9\jouer.h
+
+1398240704 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.9\chargements_sdl.h
+
+1400207559 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.9\mouvement_ennemie_1.c
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	<SDL/SDL_image.h>
+	<SDL/SDL.h>
+
+1400233665 source:c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.9\jouer.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"chargements_SDL.h"
+	"creation_personnages.h"
+	"creation_stage.h"
+	"creation_projectils.h"
+	"mouvement_ennemie_1.h"
+
+1400204693 c:\users\amanallah\documents\developpement\jeu sdl\metal slug v2.9\mouvement_ennemie_1.h
+

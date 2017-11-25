@@ -1,0 +1,1 @@
+libpng warning: Interlace handling should be turned on when using png_read_image

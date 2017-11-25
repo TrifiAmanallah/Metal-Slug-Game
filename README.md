@@ -10,18 +10,18 @@ Press c to jump.
 
 # Screen Shots
 
-![Alt text](Metal-Slug-Game/Screen Shots/Capture d’écran (3).png)
+![Alt text](https://github.com/TrifiAmanallah/Metal-Slug-Game/Screen Shots/Capture d’écran (3).png)
 
-![Alt text](Metal-Slug-Game/Screen Shots/Capture d’écran (6).png)
+![Alt text](https://github.com/TrifiAmanallah/Metal-Slug-Game/Screen Shots/Capture d’écran (6).png)
 
-![Alt text](Metal-Slug-Game/Screen Shots/Capture d’écran (11).png)
+![Alt text](https://github.com/TrifiAmanallah/Metal-Slug-Game/Screen Shots/Capture d’écran (11).png)
 
-![Alt text](Metal-Slug-Game/Screen Shots/Capture d’écran (13).png)
+![Alt text](https://github.com/TrifiAmanallah/Metal-Slug-Game/Screen Shots/Capture d’écran (13).png)
 
-![Alt text](Metal-Slug-Game/Screen Shots/Capture d’écran (14).png)
+![Alt text](https://github.com/TrifiAmanallah/Metal-Slug-Game/Screen Shots/Capture d’écran (14).png)
 
-![Alt text](Metal-Slug-Game/Screen Shots/Capture d’écran (18).png)
+![Alt text](https://github.com/TrifiAmanallah/Metal-Slug-Game/Screen Shots/Capture d’écran (18).png)
 
-![Alt text](Metal-Slug-Game/Screen Shots/Capture d’écran (29).png)
+![Alt text](https://github.com/TrifiAmanallah/Metal-Slug-Game/Screen Shots/Capture d’écran (29).png)
 
-![Alt text](Metal-Slug-Game/Screen Shots/Capture d’écran (32).png)
+![Alt text](https://github.com/TrifiAmanallah/Metal-Slug-Game/Screen Shots/Capture d’écran (32).png)
